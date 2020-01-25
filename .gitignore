@@ -16,7 +16,7 @@ sysinfo.txt
 ###
 # VS/MD solution and project files
 ###
-SpaceBrainAI/[Ee]xportedObj/
+*/[Ee]xportedObj/
 *.booproj
 *.csproj
 *.sln
