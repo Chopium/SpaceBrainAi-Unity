@@ -1,13 +1,13 @@
 ###
 # Unity folders and files
 ###
-[Aa]ssets/AssetStoreTools*
-[Bb]uild/
-[Ll]ibrary/
-[Ll]ocal[Cc]ache/
-[Oo]bj/
-[Tt]emp/
-[Uu]nityGenerated/
+SpaceBrainAI/[Aa]ssets/AssetStoreTools*
+SpaceBrainAI/[Bb]uild/
+SpaceBrainAI/[Ll]ibrary/
+SpaceBrainAI/[Ll]ocal[Cc]ache/
+SpaceBrainAI/[Oo]bj/
+SpaceBrainAI/[Tt]emp/
+SpaceBrainAI/[Uu]nityGenerated/
 # file on crash reports
 sysinfo.txt
 # Unity3D generated meta files
@@ -16,7 +16,7 @@ sysinfo.txt
 ###
 # VS/MD solution and project files
 ###
-[Ee]xportedObj/
+SpaceBrainAI/[Ee]xportedObj/
 *.booproj
 *.csproj
 *.sln
